@@ -1,6 +1,6 @@
 ## T-distributed Stochastic Neighbor Embedding Echo State Network
 
-This repo is the official implementation for T-distributed Stochastic Neighbor Embedding Echo State Network with State Matrix Dimensionality Reduction for Time Series Prediction.
+This repo is the official implementation for *T-distributed Stochastic Neighbor Embedding Echo State Network with State Matrix Dimensionality Reduction for Time Series Prediction*.
 
 ## Requirements
 - python3.8
